@@ -1,0 +1,13 @@
+Weights for all the different paths to each island:
+
+'Hawaii', 'Bahamas', 'Virgin Islands', 'Maui', 'St. Lucia'
+
+
+'Hawaii','Bahamas', 76
+'Hawaii','Maui', 146 
+'Hawaii','Virgin Islands', 315
+'Bahamas','Maui', 338
+'Bahamas','Virgin Islands', 272
+'Maui','Virgin Islands', 93
+'Virgin Islands','St. Lucia', 86
+'Maui','St. Lucia', 250 
